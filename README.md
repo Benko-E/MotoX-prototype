@@ -1,8 +1,9 @@
 # MotoX prototype (retired)
 
 > **Retired on 2026-10-31.** This was the first prototype of MotoX. It is kept
-> here, read-only, as a record of what was learned. The new version lives at
-> [Benko-E/MotoX](https://github.com/Benko-E/MotoX) and
+> here, read-only, as a record of what was learned. The second version is at
+> [Benko-E/MotoXv2](https://github.com/Benko-E/MotoXv2), and the current one, the
+> third, at [Benko-E/MotoX](https://github.com/Benko-E/MotoX) and
 > https://benko-e.github.io/MotoX/.
 
 A browser motocross game in the spirit of Motocross Madness 1 and 2.
